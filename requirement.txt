@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-google-genai
+langchainhub
+langchain_chroma
+google-generativeai
+chromadb
+pypdf
+python-docx
+duckduckgo-search
+python-dotenv
+ddgs
