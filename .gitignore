@@ -1,6 +1,16 @@
-intern-venv/
-
+# Security: API Keys
 .env
 
+# User Data (PDFs and Generated Docs)
+data/
+
+# Vector Database (Heavy)
 chroma_db/
+
+chroma_db/chroma.sqlite3/
+
+# Python Cache (Junk)
 __pycache__/
+
+# Virtual Environment
+intern-venv/
