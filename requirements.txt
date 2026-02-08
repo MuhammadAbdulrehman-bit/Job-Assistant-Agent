@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-google-genai
+langchainhub
+sentence-transformers
+langchain-huggingface
+langchain_chroma
+google-generativeai
+chromadb
+pypdf
+python-docx
+python-dotenv
+ddgs
+streamlit

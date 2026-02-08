@@ -1,0 +1,19 @@
+# Ignore git history
+.git/
+
+# Ignore local virtual environments (Linux/Mac & Windows names)
+intern-venv/
+venv/
+env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore the environment file (passed via docker-compose instead)
+.env
+.env.example
+
+# Ignore local data (let volumes handle this)
+chroma_db/
+data/

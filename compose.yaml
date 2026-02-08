@@ -11,7 +11,3 @@ services:
     env_file:
       # This tells Docker to look for a local .env file
       - .env
-    environment:
-      # Fallback: You can also pass the key directly here if needed, 
-      # but using env_file is cleaner.
-      - GOOGLE_API_KEY=${GOOGLE_API_KEY}
